@@ -31,6 +31,7 @@ Build a strong foundation for data science.
 
 Understand data patterns and trends.
 Prepare for more advanced techniques like inferential statistics and machine learning.
+
 🛠️ Tools and Libraries
 
 Programming Language: Python
