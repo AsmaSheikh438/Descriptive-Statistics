@@ -24,3 +24,24 @@ This repository serves as an introduction to **Descriptive Statistics**, a funda
    - Histograms  
    - Box Plots  
    - Scatter Plots  
+
+🌟 Why Learn Descriptive Statistics?
+
+Build a strong foundation for data analysis.
+
+Understand data patterns and trends.
+Prepare for more advanced techniques like inferential statistics and machine learning.
+🛠️ Tools and Libraries
+
+Programming Language: Python
+Libraries:
+
+NumPy: For numerical operations
+
+Pandas: For data manipulation
+
+Matplotlib & Seaborn: For data visualization
+
+
+
+
