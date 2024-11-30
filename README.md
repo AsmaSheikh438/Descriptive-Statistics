@@ -27,7 +27,7 @@ This repository serves as an introduction to **Descriptive Statistics**, a funda
 
 🌟 Why Learn Descriptive Statistics?
 
-Build a strong foundation for data analysis.
+Build a strong foundation for data science.
 
 Understand data patterns and trends.
 Prepare for more advanced techniques like inferential statistics and machine learning.
