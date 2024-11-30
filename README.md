@@ -18,9 +18,12 @@ This repository serves as an introduction to **Descriptive Statistics**, a funda
 
 3. **Data Distribution and Shape**  
    - Skewness (Asymmetry of the Distribution)  
-   - Kurtosis (Peakedness of the Distribution)  
+   - Kurtosis (Peakedness of the Distribution)
+   
+5. **Percentiles and Quartiles**
+6. **Probability**  
 
-4. **Visualization Techniques**  
+7. **Visualization Techniques**  
    - Histograms  
    - Box Plots  
    - Scatter Plots  
